@@ -266,7 +266,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E6D75821-BFEA-4003-8252-D9CAD7EF5D59}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Car Wash Simulation.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Application/Car Wash Simulation.exe</Property>
@@ -277,7 +277,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Application/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9D1E6A04-3105-44A7-B372-A15E0686C6D8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{719C94D8-D994-4AE5-A7B5-6C6EAAE5EE2E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Car Wash Original/Car Wash.vi</Property>
@@ -366,7 +366,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{FEB08424-F37A-4C89-930A-8D482E91B9D7}</Property>
 				<Property Name="INST_installerName" Type="Str">Car Wash Sim Installer.exe</Property>
 				<Property Name="INST_productName" Type="Str">Car Wash Controller</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.2</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.3</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">21008000</Property>
 				<Property Name="MSI_arpCompany" Type="Str">BLUE EYES SYSTEMS</Property>
